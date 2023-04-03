@@ -1,0 +1,8 @@
+.banner {
+    filter: hue-rotate(263deg);
+    text-align: center;
+}
+
+.banner img {
+    max-width: 100%;
+}
